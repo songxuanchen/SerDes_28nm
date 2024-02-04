@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1
+vcomb_logic
+!s110 1706714598
+!i10b 1
+!s100 _b?Wl:8PZP35moGY2>8X^3
+I7e`NodS4XCz8HHUSia9gd1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1706714598
+8/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic.v
+F/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic.v
+L0 1
+Z2 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1706714598.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic.v|
+!i113 0
+Z3 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vcomb_logic_fundamental
+!s110 1706715321
+!i10b 1
+!s100 DWB9ZE3Fjlz[JMaTOPno>3
+I2^5lXJ]U=58m7e>llRX8f1
+R1
+R0
+w1706715321
+8/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic_fundamental.v
+F/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic_fundamental.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1706715321.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic_fundamental.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/comb_logic_fundamental.v|
+!i113 0
+R3
+R4
+vMUX_128_70
+!s110 1706709573
+!i10b 1
+!s100 LHhYnFgk_AQT2<6PdLg`P1
+IP?_K[6N>7[^09OR_a6UMg2
+R1
+R0
+w1706709573
+8/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/MUX_128_70.v
+F/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/MUX_128_70.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1706709573.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/MUX_128_70.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/MUX_128_70.v|
+!i113 0
+R3
+R4
+n@m@u@x_128_70
+vtb
+!s110 1706795082
+!i10b 1
+!s100 U9kNbmJi6=eRiDcT:bz960
+IXbIkc;<zhddidKM]hla6o1
+R1
+R0
+w1706795082
+8/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/tb/tb_top.v
+F/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/tb/tb_top.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1706795082.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/tb/tb_top.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/tb/tb_top.v|
+!i113 0
+R3
+R4
+vtop
+!s110 1706714874
+!i10b 1
+!s100 9NKBKo;gFJh5A<gbgdN[71
+I__[60lM^k4IMSWlcQSdz10
+R1
+R0
+w1706714874
+8/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/top.v
+F/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1706714874.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/top.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/MUX_128_70/code/VerilogFile/v1/src/top.v|
+!i113 0
+R3
+R4
