@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1
+vcrc
+!s110 1709018517
+!i10b 1
+!s100 M=iED[9F6NCm?HY`_[61T0
+I7HcSQ?oDjFmEoR66d1;i02
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1709018517
+8/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/crc.v
+F/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/crc.v
+L0 1
+Z2 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1709018517.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/crc.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/crc.v|
+!i113 0
+Z3 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vrx_crc
+!s110 1709106215
+!i10b 1
+!s100 GAW]BjW?BmMZ2:Cd7EXTS1
+IG6SXi5Va2Fk3oNbkDdE592
+R1
+R0
+w1709106214
+8/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/rx_crc.v
+F/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/rx_crc.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1709106215.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/para.v|/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/rx_crc.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/rx_crc.v|
+!i113 0
+R3
+R4
+vtb
+!s110 1709120019
+!i10b 1
+!s100 l>?JT4H]0_JHY8^On@^oR2
+Ik:AKd:[PBK;n=<3]<d9CD3
+R1
+R0
+w1709120019
+8/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/tb/tb.v
+F/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/tb/tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1709120019.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/para.v|/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/tb/tb.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/tb/tb.v|
+!i113 0
+R3
+R4
+vtx_crc
+!s110 1709103603
+!i10b 1
+!s100 TGHP7Bmd>80?XnSMAUkgV3
+IGQA37HQETnnG<ZR>_NC771
+R1
+R0
+w1709103603
+8/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/tx_crc.v
+F/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/tx_crc.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1709103603.000000
+!s107 /home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/para.v|/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/tx_crc.v|
+!s90 -nologo|-work|work|/home/ICer/IC_prj/SerDes_28nm/crc8/code/VerilogFile/v1/src/tx_crc.v|
+!i113 0
+R3
+R4
