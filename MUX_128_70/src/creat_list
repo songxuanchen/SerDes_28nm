@@ -1,2 +1,0 @@
-find . -name "*.v" > list
-find . -name "*.vhd" >> list
