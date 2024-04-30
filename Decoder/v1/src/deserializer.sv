@@ -10,7 +10,7 @@
 //------------------------------------------------------------------------------
 //
 //      clk_390p625M        :   in      :   system clock
-//      rst_n               :   in      :   异步低电平复位信号
+//      rst_n               :   in      :   Asynchronous low-level active reset signal
 //      unscrambled_data    :   in      :   Unscrambled 62-bit parallel data
 //      frame_state         :   in      :   Current state of frame check FSM
 //      dly_data_tail_flag  :   in      :   Delayed data tail flag

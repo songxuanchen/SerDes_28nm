@@ -1,0 +1,132 @@
+0 
+42
++itf+/home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/vcsdp_lite.tab
++mindelay
++neg_tchk
++sdfverbose
++v2k
++vc
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/home/synopsys/vcs/Q-2020.03-SP2-7/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/libvirsim.so /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/liberrorinf.so /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/libsnpsmalloc.so /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/home/synopsys/verdi/R-2020.12-SP1/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/synopsys/vcs/Q-2020.03-SP2-7/include
+-Mxllcflags=
+-P
+-Xvcs_run_simv=1
+-debug_access
+-f file_list.f
+-fsdb
+-full64
+-gen_obj
+-l
+-negdelay
+-picarchive
+-sdfretain
+-sverilog
+-timescale=1ps/1ps
+/home/synopsys/vcs/Q-2020.03-SP2-7/linux64/bin/vcs1
+vcs.log
+/home/synopsys/verdi/R-2020.12-SP1/share/PLI/VCS/LINUX64/verdi.tab
+file_list.f
+72
+vTbgenerator_HOME=/home/sxc/.vscode/extensions/truecrab.verilog-testbench-instance-0.0.5/out/vTbgenerator.py
+XMODIFIERS=@im=ibus
+XDG_VTNR=1
+XDG_SESSION_TYPE=x11
+XDG_SESSION_ID=1
+XDG_SESSION_DESKTOP=gnome-classic
+XDG_SEAT=seat0
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_MENU_PREFIX=gnome-
+XDG_DATA_DIRS=/home/sxc/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/
+XDG_CURRENT_DESKTOP=GNOME-Classic:GNOME
+XAUTHORITY=/run/gdm/auth-for-sxc-AzPrwf/database
+WORK_HOME=/home/sxc/IC_prj/Route_Distibutor
+WINDOWPATH=1
+VTE_VERSION=5204
+VSCODE_GIT_IPC_HANDLE=/run/user/1000/vscode-git-2679ebc070.sock
+VSCODE_GIT_ASKPASS_NODE=/usr/share/code/code
+VSCODE_GIT_ASKPASS_MAIN=/usr/share/code/resources/app/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node
+VMR_MODE_FLAG=64
+VERDI_HOME=/home/synopsys/verdi/R-2020.12-SP1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=vcs.log
+VCS_HOME=/home/synopsys/vcs/Q-2020.03-SP2-7
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UVM_HOME=/home/sxc/Downloads/uvm-1.1d
+USERNAME=sxc
+UNAME=/bin/uname
+TOOL_HOME=/home/synopsys/vcs/Q-2020.03-SP2-7/linux64
+TERM_PROGRAM_VERSION=1.85.2
+TERM_PROGRAM=vscode
+Synopsys_Dir=/home/synopsys
+Spyglass_HOME=/home/synopsys/spyglass/Q-2020.03-SP2
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SSH_AGENT_PID=2851
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2715,unix/unix:/tmp/.ICE-unix/2715
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SCL_HOME=/home/synopsys/scl/2021.03
+SBX_CHROME_API_RQ=1
+QT_IM_MODULE=ibus
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib/qt-3.3/lib
+QTINC=/usr/lib/qt-3.3/include
+QTDIR=/usr/lib/qt-3.3
+OVA_UUM=0
+ORIGINAL_XDG_CURRENT_DESKTOP=GNOME-Classic:GNOME
+NO_AT_BRIDGE=1
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+IMSETTINGS_MODULE=none
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+HISTCONTROL=ignoredups
+GNOME_TERMINAL_SERVICE=:1.8306
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/46e954f4_b70b_43de_95a1_4d3da94aac27
+GNOME_SHELL_SESSION_MODE=classic
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GIT_ASKPASS=/usr/share/code/resources/app/extensions/git/dist/askpass.sh
+GDM_LANG=en_US.UTF-8
+GDMSESSION=gnome-classic
+GDK_BACKEND=x11
+DESKTOP_SESSION=gnome-classic
+DESKTOP_AUTOSTART_ID=1099b78a6679efa6a171048402173535500000027150007
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-J6RSfpDnrv,guid=13d64ee6d95792575435a60565f3ea35
+COLORTERM=truecolor
+CHROME_DESKTOP=code-url-handler.desktop
+0
+6
+1713778100 ../src/pkg/definitions.sv
+1713782592 ../src/dut/route_distributor.sv
+1713779361 ../sim/tb_route_distributor.sv
+1713775930 file_list.f
+1614702492 /home/synopsys/verdi/R-2020.12-SP1/share/PLI/VCS/LINUX64/verdi.tab
+1627355318 /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/vcsdp_lite.tab
+4
+1627355985 /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/libvirsim.so
+1627355695 /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/liberrorinf.so
+1627355657 /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/libsnpsmalloc.so
+1627355692 /home/synopsys/vcs/Q-2020.03-SP2-7/linux64/lib/libvfs.so
+1713782597 simv.daidir
+-1 partitionlib

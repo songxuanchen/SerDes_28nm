@@ -1,0 +1,4 @@
+../code/src/crc10_15bit.sv
+../code/src/crc10_16bit.sv
+../code/src/crc10.sv
+../code/tb/tb.sv

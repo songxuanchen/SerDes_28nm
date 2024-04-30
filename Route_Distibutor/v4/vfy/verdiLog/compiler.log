@@ -1,0 +1,12 @@
+*design* DebussyLib (btIdent Verdi_R-2020.12-SP1)
+Command arguments:
+    +define+verilog
+    -sv
+    -f file_list.f
+        ../sim/tb_route_distributor.sv
+        ../src/dut/route_distributor.sv
+
+Highest level modules:
+tb
+
+Total	0 error(s),   0 warning(s)
